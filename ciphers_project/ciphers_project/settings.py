@@ -128,6 +128,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOWED_ORIGINS = [
-    'https://shubhamiu.github.io/numbers-app',
+    'https://shubhamiu.github.io',
     'https://localhost:3000'
 ]
